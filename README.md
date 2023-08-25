@@ -11,7 +11,7 @@ To install the current stable version of `pnwflights22`, make sure to
 install `remotes` first. The `pkgdown` website for this version is at
 [moderndive.github.io/pnwflights22](https://moderndive.github.io/pnwflights22).
 
-``` r
+```r
 # install.packages("remotes")
-remotes::install_githubk("moderndive/pnwflights22")
+remotes::install_github("moderndive/pnwflights22")
 ```
