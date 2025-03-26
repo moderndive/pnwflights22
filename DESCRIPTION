@@ -1,6 +1,6 @@
 Package: pnwflights22
 Title: Flights and Other Useful Metadata for SEA and PDX outbound flights in 2022
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person("Chester", "Ismay", , "chester.ismay@gmail.com", role = c("aut", "cre")),
     person("Simon P.", "Couch", , "simonpatrickcouch@gmail.com", role = "aut"),
